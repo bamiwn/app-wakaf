@@ -57,6 +57,8 @@
                         <div class="d-none d-sm-block">
                             <h2 class="h6 text-gray-400 mb-0">Hasil Peng. (Avg)</h2>
                             <h3 class="fw-extrabold mb-2">{{ $rata_hp }}</h3>
+                            <h3 class="fw-extrabold mb-2">{{ $rata_hp }}</h3>
+                            <h2 class="h6 text-gray-400 mb-0">Example. (Avg)</h2>
                         </div>
                     </div>
                 </div>
